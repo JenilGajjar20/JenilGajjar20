@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - I'm a developer, learner and student.
-- I am eager to learn new things everyday.
-- Currently I am pursuing my Bachelor's Degree.
+- I am eager to learn new things.
+- Currently working on Full Stack Web Development.
 
 ## 🤝 Connect with me:
 
