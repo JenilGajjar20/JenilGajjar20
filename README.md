@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jenil Gajjar
 
 <!-- ![](https://komarev.com/ghpvc/?username=JenilGajjar20) -->
-![](https://badges.pufler.dev/repos/JenilGajjar20)
+<!-- ![](https://badges.pufler.dev/repos/JenilGajjar20) -->
 
 - 📫 How to reach me : **jenilgajjar@gmail.com**
 - ⚡ Fun fact : **The first computer “bug” was an actual real-life bug**
