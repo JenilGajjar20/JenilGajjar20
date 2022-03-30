@@ -19,6 +19,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jenil20gajjar/)
 [![Facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jenil.gajjar.7)
 [![Whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7600697082)
+[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@jenilgajjar)
 
 ## 🛠 Skills
 
