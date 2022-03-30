@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- I'm a Frontend Intern at [![7Span](https://7span.com/)
+- I'm a Frontend Intern at [7Span](https://7span.com/)
 - I'm a developer, learner and student.
 - I am eager to learn new technologies.
 - Currently learning Vue.js and Nuxt.js.
