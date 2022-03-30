@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 - I'm a developer, learner and student.
-- I am eager to learn new things.
-- Currently working on Full Stack Web Development.
+- I am eager to learn new technologies.
+- Currently learning Vue.js and Nuxt.js.
 
 ## 🤝 Connect with me:
 
