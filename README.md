@@ -63,7 +63,7 @@
 
 
 # 💫 About Me :
-- I’m a frontend developer [7Span](https://7span.com/)
+- I’m a frontend developer at [7Span](https://7span.com/)
 - I’m a enthusiastic developer 👨‍💻
 - I'm eager to learn new technologies 💡
 - I’m currently learning Next.js 😀
