@@ -66,7 +66,7 @@
 - I’m a frontend developer at [7Span](https://7span.com/)
 - I’m a enthusiastic developer 👨‍💻
 - I'm eager to learn new technologies 💡
-- I’m currently learning Next.js 😀
+<!-- - I’m currently learning Next.js 😀 -->
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-gajjar-27934920a/) 
