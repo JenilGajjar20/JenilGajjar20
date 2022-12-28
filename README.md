@@ -67,6 +67,7 @@
 - I’m a enthusiastic developer 👨‍💻
 - I'm eager to learn new technologies 💡
 - I write articles on [Medium](https://medium.com/@jenilgajjar)
+- I like contributing to open source projects.
 <!-- - I’m currently learning Next.js 😀 -->
 
 ## 🤝 Connect With Me
