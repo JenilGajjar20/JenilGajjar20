@@ -84,6 +84,13 @@
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  -->
 <!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 
+# 📝 Medium Articles
+[![](https://img.shields.io/badge/Medium%20Articles-3-green)](https://jenilgajjar.medium.com/)
+
+- [Calculator in Vue.js along with Tailwind CSS](https://medium.com/7span/calculator-in-vue-js-along-with-tailwind-css-2e670815208d)
+- [Inheritance in CPP](https://medium.com/7span/inheritance-in-cpp-584b892568c0)
+- [CRUD operation using Node.js and Express.js](https://medium.com/7span/crud-operation-using-node-js-and-express-js-a0d63a2216aa)
+
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JenilGajjar20&theme=dark&hide_border=false)<br/>
