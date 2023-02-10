@@ -110,6 +110,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+[![Jenil Gajjar's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JenilGajjar20&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
