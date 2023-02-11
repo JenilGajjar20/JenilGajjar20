@@ -99,11 +99,12 @@
 
 ## 📝 Medium Articles
 
-[![](https://img.shields.io/badge/Medium%20Articles-3-green?style=for-the-badge)](https://jenilgajjar.medium.com/)
+[![](https://img.shields.io/badge/Medium%20Articles-4-green?style=for-the-badge)](https://jenilgajjar.medium.com/)
 
 - [**Calculator in Vue.js along with Tailwind CSS**](https://medium.com/7span/calculator-in-vue-js-along-with-tailwind-css-2e670815208d)
 - [**Inheritance in CPP**](https://medium.com/7span/inheritance-in-cpp-584b892568c0)
 - [**CRUD operation using Node.js and Express.js**](https://medium.com/7span/crud-operation-using-node-js-and-express-js-a0d63a2216aa)
+- [**My Experience at Hack This Fall 3.0 Hackathon**](https://medium.com/@jenilgajjar/my-experience-at-hack-this-fall-3-0-hackathon-496c4c899539)
 
 ## 📊 GitHub Stats
 
