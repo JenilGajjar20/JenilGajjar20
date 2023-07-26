@@ -4,7 +4,7 @@
 <!-- ![](https://badges.pufler.dev/repos/JenilGajjar20) -->
 
 <!-- - 📫 How to reach me : **jenilgajjar@gmail.com**
-- ⚡ Fun fact : **The first computer “bug” was an actual real-life bug** -->
+- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug** -->
 <!--
 ## 🚀 About Me
 
@@ -52,22 +52,20 @@
 &nbsp;
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=JenilGajjar20&show_icons=true&locale=en&layout=compact)
-
 ![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&show_icons=true&locale=en)
+
  -->
 
 # Hi 👋, I'm Jenil Gajjar
 
-<!-- - ⚡ Fun fact : **The first computer “bug” was an actual real-life bug.** -->
+<!-- - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug.** -->
 
 ## 💫 About Me
 
 - Currently working as a frontend developer at [**7Span**](https://7span.com/) 👨‍💻
 - I'm eager to learn **new** technologies 💡
 - I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝
-- 2023 Goals: Contributing to **open source projects** 🥅
-- How to reach me : **jenilgajjar@gmail.com** 📫
-<!-- - I’m currently learning Next.js 😀 -->
+- How to reach me: **jenilgajjar@gmail.com** 📫
 
 ## 🤝 Connect With Me
 
@@ -113,7 +111,12 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-[![Jenil Gajjar's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JenilGajjar20&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Jenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenilgajjar20&show_icons=true&theme=vue-dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilgajjar20&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue-dark)
+
+[![Jenil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JenilGajjar20&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 
