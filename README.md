@@ -62,10 +62,10 @@
 
 ## 💫 About Me
 
-- Currently working as a frontend developer at [**7Span**](https://7span.com/) 👨‍💻
-- I'm eager to learn **new** technologies 💡
-- I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝
-- How to reach me: **jenilgajjar@gmail.com** 📫
+- Currently pursuing Master's Degree in **Cyber Security** from **Nirma University** 👨‍🎓.
+- I'm eager to learn **new** technologies 💡.
+- I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝.
+- How to reach me: **jenilgajjar@gmail.com** 📫.
 
 ## 🤝 Connect With Me
 
