@@ -64,8 +64,8 @@
 
 - Currently pursuing Master's Degree in **Cyber Security** from **Nirma University** 👨‍🎓.
 - I'm eager to learn **new** technologies 💡.
-<!-- - I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝. -->
 - How to reach me: **jenilgajjar@gmail.com** 📫.
+<!-- - I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝. -->
 
 ## 🤝 Connect With Me
 
