@@ -116,7 +116,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JenilGajjar20&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-[![Jenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenilgajjar20&show_icons=true&theme=vue-dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Jenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenilgajjar20&show_icons=true&theme=vue-dark&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Jenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenilgajjar20&show_icons=true&theme=vue-dark&rank_icon=percentile&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilgajjar20&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue-dark)
 
