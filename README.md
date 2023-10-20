@@ -128,6 +128,10 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=JenilGajjar20&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+## 🚀 Hacktoberfest
+
+[![An image of @jenil20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jenil20)](https://holopin.io/@jenil20)
+
 <!-- --- -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=JenilGajjar20&icon=5&color=1)](https://visitcount.itsvg.in) -->
