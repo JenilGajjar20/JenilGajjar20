@@ -97,9 +97,9 @@
 <!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  -->
 <!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 
-## 📝 Medium Articles
+## 📝 Articles
 
-[![](https://img.shields.io/badge/Medium%20Articles-6-green?style=for-the-badge)](https://jenilgajjar.medium.com/)
+[![](https://img.shields.io/badge/Medium%20Articles-6-black?style=for-the-badge)](https://jenilgajjar.medium.com/)
 
 - [**Calculator in Vue.js along with Tailwind CSS**](https://medium.com/7span/calculator-in-vue-js-along-with-tailwind-css-2e670815208d)
 - [**Inheritance in CPP**](https://medium.com/7span/inheritance-in-cpp-584b892568c0)
@@ -107,6 +107,10 @@
 - [**My Experience at Hack This Fall 3.0 Hackathon (Part One)**](https://medium.com/@jenilgajjar/my-experience-at-hack-this-fall-3-0-hackathon-496c4c899539)
 - [**The Product we built during Hackathon (Part Two)**](https://jenilgajjar.medium.com/the-product-we-built-during-hackathon-a2125d057546)
 - [**From Skies to Insights: JavaScript Conference India 2023 and the Spirit of Bengaluru**](https://medium.com/@jenilgajjar/from-skies-to-insights-javascript-conference-india-2023-and-the-spirit-of-bengaluru-9f9f48c12893)
+
+[![](https://img.shields.io/badge/dev.to-1-black?style=for-the-badge)](https://dev.to/jenilgajjar20)
+
+- [**My Hacktoberfest 2023 Journey from Contributor to Maintainer**](https://dev.to/jenilgajjar20/my-hacktoberfest-2023-journey-from-contributor-to-maintainer-48h4)
 
 ## 📊 GitHub Stats
 
