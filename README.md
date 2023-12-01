@@ -124,7 +124,7 @@
 
 [![Jenil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenilgajjar20&show_icons=true&theme=vue-dark&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilgajjar20&size_weight=0.5&count_weight=0.5&layout=compact&theme=vue-dark&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenilgajjar20&size_weight=0.5&count_weight=0.5&layout=donut&theme=vue-dark&langs_count=6)
 
 [![Jenil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JenilGajjar20&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
