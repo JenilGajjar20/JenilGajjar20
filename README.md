@@ -65,13 +65,11 @@
 - Currently pursuing Master's Degree in **Cyber Security** from **Nirma University** 👨‍🎓.
 - I'm eager to learn **new** technologies 💡.
 - How to reach me: **jenilgajjar@gmail.com** 📫.
-<!-- - I write articles on [**Medium**](https://medium.com/@jenilgajjar) 📝. -->
 
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-gajjar-27934920a/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gajjar_jenil)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jenilgajjar.medium.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gajjar_jenil)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/jenilgajjar?style=for-the-badge)](https://peerlist.io/jenilgajjar)
 
