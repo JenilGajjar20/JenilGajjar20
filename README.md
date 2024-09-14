@@ -115,9 +115,10 @@
 
 - [**My Hacktoberfest 2023 Journey from Contributor to Maintainer**](https://dev.to/jenilgajjar20/my-hacktoberfest-2023-journey-from-contributor-to-maintainer-48h4)
 
-[![](https://img.shields.io/badge/Hashnode-1-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://jenilgajjar.hashnode.dev/)
+[![](https://img.shields.io/badge/Hashnode-2-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://jenilgajjar.hashnode.dev/)
 
 - [**Automating Tasks with Cron Jobs: A Beginner's Guide**](https://jenilgajjar.hashnode.dev/automating-tasks-with-cron-jobs-a-beginners-guide)
+- [**Implementing a Keylogger: A Comprehensive Approach to Keystroke Tracking**](https://jenilgajjar.hashnode.dev/implementing-a-keylogger-a-comprehensive-approach-to-keystroke-tracking)
 
 ## 📊 GitHub Stats
 
