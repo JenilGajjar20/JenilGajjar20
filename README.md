@@ -1,70 +1,23 @@
-<!-- # Hi 👋, I'm Jenil Gajjar -->
-
-<!-- ![](https://komarev.com/ghpvc/?username=JenilGajjar20) -->
 <!-- ![](https://badges.pufler.dev/repos/JenilGajjar20) -->
 
-<!-- - 📫 How to reach me : **jenilgajjar@gmail.com**
-- ⚡ Fun fact: **The first computer “bug” was an actual real-life bug** -->
-<!--
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Jenil Gajjar</h1>
+<h3 align="center">Pursuing M.Tech in Cybersecurity 👨‍🎓, I am a passionate technophile and open-source contributor, currently interning in IoT. Eager to learn, I actively participate in events, conferences, and hackathons.</h3>
 
-- I'm a Frontend Intern at [7Span](https://7span.com/)
-- I'm a developer, learner and student.
-- I am eager to learn new technologies.
-- Currently learning Vue.js and Nuxt.js. -->
-<!--
-## 🤝 Connect with me:
-
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-gajjar-27934920a/)
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gajjar_jenil)
-[![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jenil20gajjar/)
-[![Facebook](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jenil.gajjar.7)
-[![Whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7600697082)
-[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@jenilgajjar)
-
-## 🛠 Skills
-
-### Frontend
-
-<div align="center">
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</div>
-
-### Backend
-
-<div align="center">
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="MySQL" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="MySQL" height="50" />
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="MySQL" height="50" />
-</div>
-&nbsp;
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=JenilGajjar20&show_icons=true&locale=en&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=JenilGajjar20&show_icons=true&locale=en)
-
- -->
-
-# Hi 👋, I'm Jenil Gajjar
-
-<!-- - ⚡ Fun fact: **The first computer “bug” was an actual real-life bug.** -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jenilgajjar20&label=Profile%20views&color=0e75b6&style=flat" alt="jenilgajjar20" /> </p>
 
 ## 💫 About Me
 
-- Currently pursuing Master's Degree in **Cyber Security** from **Nirma University** 👨‍🎓.
-- I'm eager to learn **new** technologies 💡.
-- How to reach me: **jenilgajjar@gmail.com** 📫.
+- 🌱 I’m currently learning **Angular, Nest.js,** and **PostgreSQL**
+
+- 👨‍💻 All of my projects are available at [https://jenilgajjar.netlify.app](https://jenilgajjar.netlify.app)
+
+- 📝 I regularly write articles on [https://jenilgajjar.hashnode.dev](https://jenilgajjar.hashnode.dev)
+
+- 💬 Ask me about **javascript, vue, css, git, kali-linux**
+
+- 📫 How to reach me **jenilgajjar@gmail.com**
+
+- 📄 Know about my experiences [https://jenilgajjar.netlify.app/jenilgajjar_resume.pdf](https://jenilgajjar.netlify.app/jenilgajjar_resume.pdf)
 
 ## 🤝 Connect With Me
 
@@ -72,11 +25,14 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gajjar_jenil)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/jenilgajjar?style=for-the-badge)](https://peerlist.io/jenilgajjar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jenilgajjar.medium.com/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://jenilgajjar.hashnode.dev/)
 
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -111,14 +67,14 @@
 - [**The Product we built during Hackathon (Part Two)**](https://jenilgajjar.medium.com/the-product-we-built-during-hackathon-a2125d057546)
 - [**From Skies to Insights: JavaScript Conference India 2023 and the Spirit of Bengaluru**](https://medium.com/@jenilgajjar/from-skies-to-insights-javascript-conference-india-2023-and-the-spirit-of-bengaluru-9f9f48c12893)
 
-[![](https://img.shields.io/badge/dev.to-1-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jenilgajjar20)
-
-- [**My Hacktoberfest 2023 Journey from Contributor to Maintainer**](https://dev.to/jenilgajjar20/my-hacktoberfest-2023-journey-from-contributor-to-maintainer-48h4)
-
 [![](https://img.shields.io/badge/Hashnode-2-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://jenilgajjar.hashnode.dev/)
 
 - [**Automating Tasks with Cron Jobs: A Beginner's Guide**](https://jenilgajjar.hashnode.dev/automating-tasks-with-cron-jobs-a-beginners-guide)
 - [**Implementing a Keylogger: A Comprehensive Approach to Keystroke Tracking**](https://jenilgajjar.hashnode.dev/implementing-a-keylogger-a-comprehensive-approach-to-keystroke-tracking)
+
+[![](https://img.shields.io/badge/dev.to-1-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/jenilgajjar20)
+
+- [**My Hacktoberfest 2023 Journey from Contributor to Maintainer**](https://dev.to/jenilgajjar20/my-hacktoberfest-2023-journey-from-contributor-to-maintainer-48h4)
 
 ## 📊 GitHub Stats
 
@@ -145,5 +101,3 @@
 [![An image of @jenil20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jenil20)](https://holopin.io/@jenil20)
 
 <!-- --- -->
-
-<!-- [![](https://visitcount.itsvg.in/api?id=JenilGajjar20&icon=5&color=1)](https://visitcount.itsvg.in) -->
