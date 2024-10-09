@@ -1,7 +1,7 @@
 <!-- ![](https://badges.pufler.dev/repos/JenilGajjar20) -->
 
 <h1 align="center">Hi 👋, I'm Jenil Gajjar</h1>
-<h3 align="center">Pursuing M.Tech in Cybersecurity 👨‍🎓, I am a passionate technophile and open-source contributor, currently interning in IoT. Eager to learn, I actively participate in events, conferences, and hackathons.</h3>
+<h3 align="center">Pursuing M.Tech in Cybersecurity 👨‍🎓, I am a passionate technophile 💻 and open-source contributor 🌐, currently interning in IoT 📡. Eager to learn 📚, I actively participate in events 🎟️, conferences 🗣️, and hackathons 💡.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenilgajjar20&label=Profile%20views&color=0e75b6&style=flat" alt="jenilgajjar20" /> </p>
 
