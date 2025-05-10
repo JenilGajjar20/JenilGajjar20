@@ -1,27 +1,29 @@
 <!-- ![](https://badges.pufler.dev/repos/JenilGajjar20) -->
 
 <h1 align="center">Hi 👋, I'm Jenil Gajjar</h1>
-<h3 align="center">Pursuing M.Tech in Cybersecurity 👨‍🎓, I am a passionate technophile 💻 and open-source contributor 🌐, currently interning in IoT 📡. Eager to learn 📚, I actively participate in events 🎟️, conferences 🗣️, and hackathons 💡.</h3>
+<h3 align="center">I am a passionate technophile 💻 and open-source contributor 🌐, currently working as a Full-Stack Developer 📡. Eager to learn 📚, I actively participate in events 🎟️, conferences 🗣️, and hackathons 💡.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenilgajjar20&label=Profile%20views&color=0e75b6&style=flat" alt="jenilgajjar20" /> </p>
 
 ## 💫 About Me
 
-- 🌱 I’m currently learning **Angular, Nest.js,** and **PostgreSQL**
+<!-- - 🌱 I’m currently learning **Angular, Nest.js,** and **PostgreSQL** -->
 
-- 👨‍💻 All of my projects are available at [https://jenilgajjar.netlify.app](https://jenilgajjar.netlify.app)
+- 👨‍💻 All of my projects are available at **[jenilgajjar.in](https://jenilgajjar.in/)**
 
-- 📝 I regularly write articles on [https://jenilgajjar.hashnode.dev](https://jenilgajjar.hashnode.dev)
+- 📝 I write articles on **[Hashnode](https://jenilgajjar.hashnode.dev)** and **[Medium](https://jenilgajjar.medium.com/)**
 
-- 💬 Ask me about **javascript, vue, css, git, kali-linux**
+<!-- - 💬 Ask me about **JavaScript, Vue.js, Angular.js, Nest.js, CSS, GIT & GitHub** -->
 
 - 📫 How to reach me **jenilgajjar@gmail.com**
 
-- 📄 Know about my experiences [https://jenilgajjar.netlify.app/jenilgajjar_resume.pdf](https://jenilgajjar.netlify.app/jenilgajjar_resume.pdf)
+- 📄 Know about my experiences **[jenilgajjar.in/jenilgajjar_resume.pdf](https://jenilgajjar.in//jenilgajjar_resume.pdf)**
+
+- 🚀 **Open to work** — Available for freelance and collaborative projects
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenil-gajjar-27934920a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenilgajjar/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gajjar_jenil)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Peerlist](https://github-readme-badge.peerlist.io/api/jenilgajjar?style=for-the-badge)](https://peerlist.io/jenilgajjar)
@@ -36,12 +38,17 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
+<!-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<!-- ![WireShark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) -->
 
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
 <!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
