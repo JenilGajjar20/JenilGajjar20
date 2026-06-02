@@ -85,21 +85,25 @@ More articles: [Medium](https://jenilgajjar.medium.com/) • [Hashnode](https://
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JenilGajjar20&theme=vue-dark&hide_border=false" alt="Jenil's GitHub streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JenilGajjar20&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=false" alt="Jenil's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilGajjar20&amp;layout=compact&amp;theme=vue-dark&amp;langs_count=6&amp;hide_border=false" alt="Top languages" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JenilGajjar20&amp;theme=vue-dark&amp;hide_border=false" alt="Jenil's GitHub streak" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="165" src="https://github-stats-extended.vercel.app/api?username=JenilGajjar20&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=false" alt="Jenil's GitHub stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JenilGajjar20&amp;layout=compact&amp;theme=vue-dark&amp;langs_count=6&amp;hide_border=false" alt="Top languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Highlights
 
