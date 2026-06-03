@@ -92,14 +92,14 @@ More articles: [Medium](https://jenilgajjar.medium.com/) • [Hashnode](https://
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="165" src="https://github-stats-extended.vercel.app/api?username=JenilGajjar20&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=false" alt="Jenil's GitHub stats" />
+        <img height="165" src="https://github-stats-extended.vercel.app/api?username=JenilGajjar20&amp;show_icons=true&amp;theme=vue-dark&amp;hide_border=false&amp;cache_seconds=3600" alt="Jenil's GitHub stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JenilGajjar20&amp;layout=compact&amp;theme=vue-dark&amp;langs_count=6&amp;hide_border=false" alt="Top languages" />
+        <img height="155" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JenilGajjar20&amp;layout=compact&amp;theme=vue-dark&amp;langs_count=6&amp;hide_border=false&amp;cache_seconds=3600" alt="Top languages" />
       </a>
     </td>
   </tr>
