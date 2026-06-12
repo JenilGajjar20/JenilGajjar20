@@ -11,9 +11,9 @@
   <a href="https://www.linkedin.com/in/jenilgajjar/">LinkedIn</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jenilgajjar20&label=Profile%20views&color=0e75b6&style=flat" alt="jenilgajjar20 profile views" />
-</p>
+</p> -->
 
 ## 💫 About Me
 
